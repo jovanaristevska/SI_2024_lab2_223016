@@ -3,7 +3,8 @@
 
 **Control Flow Graph**
 
-![image](https://github.com/jovanaristevska/SI_2024_lab2_223016/assets/166999137/4fa9e3a2-6099-4abb-b316-e13b8336118c)
+![image](https://github.com/jovanaristevska/SI_2024_lab2_223016/assets/166999137/1cd38232-9d1f-4b9c-9767-af9cccfd82e9)
+
 
 **Цикломатска комплесност**
 
@@ -21,7 +22,8 @@
 
 **Тест случаи според критериуомт Every Branch**
 
-![image](https://github.com/jovanaristevska/SI_2024_lab2_223016/assets/166999137/b69491a7-b932-4547-8123-585149944f4b)
+![image](https://github.com/jovanaristevska/SI_2024_lab2_223016/assets/166999137/5b8239e8-1614-49b5-9135-2bb07049e097)
+
 
 Прв тест случај: allItems = null, payment = 6000
 
